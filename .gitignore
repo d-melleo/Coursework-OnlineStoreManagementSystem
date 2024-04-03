@@ -1,3 +1,6 @@
+.idea
 .venv
-env
+venv
+compose.yml
 __pycache__
+dbdata

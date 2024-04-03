@@ -1,0 +1,10 @@
+greenlet==3.0.3
+pillow==10.2.0
+psycopg2==2.9.9
+PyQt5==5.15.10
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.13.0
+SQLAlchemy==2.0.28
+tk==0.1.0
+ttkthemes==3.2.2
+typing_extensions==4.10.0
